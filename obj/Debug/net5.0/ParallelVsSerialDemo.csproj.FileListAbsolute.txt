@@ -1,0 +1,16 @@
+D:\Downloads\Core\ParallelVsSerialDemo\bin\Debug\net5.0\ParallelVsSerialDemo.exe
+D:\Downloads\Core\ParallelVsSerialDemo\bin\Debug\net5.0\ParallelVsSerialDemo.deps.json
+D:\Downloads\Core\ParallelVsSerialDemo\bin\Debug\net5.0\ParallelVsSerialDemo.runtimeconfig.json
+D:\Downloads\Core\ParallelVsSerialDemo\bin\Debug\net5.0\ParallelVsSerialDemo.runtimeconfig.dev.json
+D:\Downloads\Core\ParallelVsSerialDemo\bin\Debug\net5.0\ParallelVsSerialDemo.dll
+D:\Downloads\Core\ParallelVsSerialDemo\bin\Debug\net5.0\ref\ParallelVsSerialDemo.dll
+D:\Downloads\Core\ParallelVsSerialDemo\bin\Debug\net5.0\ParallelVsSerialDemo.pdb
+D:\Downloads\Core\ParallelVsSerialDemo\obj\Debug\net5.0\ParallelVsSerialDemo.csprojAssemblyReference.cache
+D:\Downloads\Core\ParallelVsSerialDemo\obj\Debug\net5.0\ParallelVsSerialDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Core\ParallelVsSerialDemo\obj\Debug\net5.0\ParallelVsSerialDemo.AssemblyInfoInputs.cache
+D:\Downloads\Core\ParallelVsSerialDemo\obj\Debug\net5.0\ParallelVsSerialDemo.AssemblyInfo.cs
+D:\Downloads\Core\ParallelVsSerialDemo\obj\Debug\net5.0\ParallelVsSerialDemo.csproj.CoreCompileInputs.cache
+D:\Downloads\Core\ParallelVsSerialDemo\obj\Debug\net5.0\ParallelVsSerialDemo.dll
+D:\Downloads\Core\ParallelVsSerialDemo\obj\Debug\net5.0\ref\ParallelVsSerialDemo.dll
+D:\Downloads\Core\ParallelVsSerialDemo\obj\Debug\net5.0\ParallelVsSerialDemo.pdb
+D:\Downloads\Core\ParallelVsSerialDemo\obj\Debug\net5.0\ParallelVsSerialDemo.genruntimeconfig.cache
