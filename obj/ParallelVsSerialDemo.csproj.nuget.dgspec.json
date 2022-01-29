@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\Core\\ParallelVsSerialDemo\\ParallelVsSerialDemo.csproj": {}
+    "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\ParallelVsSerialDemo\\ParallelVsSerialDemo.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\Core\\ParallelVsSerialDemo\\ParallelVsSerialDemo.csproj": {
+    "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\ParallelVsSerialDemo\\ParallelVsSerialDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\Core\\ParallelVsSerialDemo\\ParallelVsSerialDemo.csproj",
+        "projectUniqueName": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\ParallelVsSerialDemo\\ParallelVsSerialDemo.csproj",
         "projectName": "ParallelVsSerialDemo",
-        "projectPath": "D:\\Downloads\\Core\\ParallelVsSerialDemo\\ParallelVsSerialDemo.csproj",
-        "packagesPath": "C:\\Users\\Ido\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\Core\\ParallelVsSerialDemo\\obj\\",
+        "projectPath": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\ParallelVsSerialDemo\\ParallelVsSerialDemo.csproj",
+        "packagesPath": "C:\\Users\\ido_p\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\ParallelVsSerialDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ido\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ido_p\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

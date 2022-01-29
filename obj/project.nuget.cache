@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S8Sze1/XrKmFHfkoAMo2jDEDOH3x6z643Br9OzuATTK42AkqBkog5irQkHvFL5Xzrcy9lbQdZ26XkTTAzJh1gQ==",
+  "dgSpecHash": "yGkuzz9T55MV8GEX8AaQ5yUWq2LOdHTRpTJvBbFywacBqEHBb9cUI4AzuM0NyhSlfUfAOIMG59B83Af/sUZELQ==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Core\\ParallelVsSerialDemo\\ParallelVsSerialDemo.csproj",
+  "projectFilePath": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\WebPageCrawler_Task\\WebPageCrawler_Task.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

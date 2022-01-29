@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WebPageCrawler_Task/1.0.0": {
+        "dependencies": {
+          "WebPageCrawler": "1.0.0"
+        },
+        "runtime": {
+          "WebPageCrawler_Task.dll": {}
+        }
+      },
+      "WebPageCrawler/1.0.0": {
+        "runtime": {
+          "WebPageCrawler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebPageCrawler_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebPageCrawler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
