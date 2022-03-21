@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yGkuzz9T55MV8GEX8AaQ5yUWq2LOdHTRpTJvBbFywacBqEHBb9cUI4AzuM0NyhSlfUfAOIMG59B83Af/sUZELQ==",
+  "dgSpecHash": "zFv91sg+yxg9z/E/Dkrsqae6JDhCRuy4zWOSTCLy78Igx3tAcZB+QZCn2qerMZniV4hS+HxytW/QmCqN7h3lzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\WebPageCrawler_Task\\WebPageCrawler_Task.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\OneDrive\\Ido\\OneDrive\\Public\\Lectures\\.NET\\Async\\WebPageCrawler_Task\\WebPageCrawler_Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ido\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

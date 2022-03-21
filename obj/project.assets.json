@@ -17,8 +17,8 @@
   "libraries": {
     "WebPageCrawler/1.0.0": {
       "type": "project",
-      "path": "../WebPages/WebPageCrawler.csproj",
-      "msbuildProject": "../WebPages/WebPageCrawler.csproj"
+      "path": "../WebPageCrawler/WebPageCrawler.csproj",
+      "msbuildProject": "../WebPageCrawler/WebPageCrawler.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ido_p\\.nuget\\packages\\": {}
+    "C:\\Users\\Ido\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\WebPageCrawler_Task\\WebPageCrawler_Task.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Ido\\OneDrive\\Public\\Lectures\\.NET\\Async\\WebPageCrawler_Task\\WebPageCrawler_Task.csproj",
       "projectName": "WebPageCrawler_Task",
-      "projectPath": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\WebPageCrawler_Task\\WebPageCrawler_Task.csproj",
-      "packagesPath": "C:\\Users\\ido_p\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\WebPageCrawler_Task\\obj\\",
+      "projectPath": "D:\\OneDrive\\Ido\\OneDrive\\Public\\Lectures\\.NET\\Async\\WebPageCrawler_Task\\WebPageCrawler_Task.csproj",
+      "packagesPath": "C:\\Users\\Ido\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\Ido\\OneDrive\\Public\\Lectures\\.NET\\Async\\WebPageCrawler_Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ido_p\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ido\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\WebPages\\WebPageCrawler.csproj": {
-              "projectPath": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\ASYNC\\WebPages\\WebPageCrawler.csproj"
+            "D:\\OneDrive\\Ido\\OneDrive\\Public\\Lectures\\.NET\\Async\\WebPageCrawler\\WebPageCrawler.csproj": {
+              "projectPath": "D:\\OneDrive\\Ido\\OneDrive\\Public\\Lectures\\.NET\\Async\\WebPageCrawler\\WebPageCrawler.csproj"
             }
           }
         }
@@ -78,12 +78,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.14, 5.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
